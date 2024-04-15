@@ -121,12 +121,17 @@ Gr_tx3 = sum(sum(Gr_x3));
 Gr_t3 = Gr_ty3 + Gr_tx3;
 
 % Menampilkan gradien red gambar 1
-disp('Gradien Red gambar 1 : '); disp(Gr_t1);
+disp('Gradien Red gambar 1 : '); 
+disp(Gr_t1);
 % Menampilkan gradien green gambar 1
-disp('Gradien Green gambar 1 : '); disp(Gg_t1);
+disp('Gradien Green gambar 1 : '); 
+disp(Gg_t1);
 % Menampilkan gradien blue gambar 1
-disp('Gradien Blue gambar 1 : '); disp(Gb_t1);
+disp('Gradien Blue gambar 1 : '); 
+disp(Gb_t1);
 % Menampilkan gradien red gambar 2
-disp('Gradien Red gambar 2 : '); disp(Gr_t2);
+disp('Gradien Red gambar 2 : '); 
+disp(Gr_t2);
 % Menampilkan gradien red gambar 3
-disp('Gradien Red gambar 3 : '); disp(Gr_t3)
+disp('Gradien Red gambar 3 : '); 
+disp(Gr_t3);
